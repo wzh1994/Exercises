@@ -6,6 +6,3 @@ void read(){
 		printf("%c", a);
 	}
 }
-int main(){
-	read();
-}
