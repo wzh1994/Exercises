@@ -1,8 +1,7 @@
 #include <stdio.h>
-void read(){
+void test(){
 	int a;
-	if ((a = getchar()) != '\n'){
-		read();
-		printf("%c", a);
-	}
+	while (scanf("%d", &a)==1){
+		printf("%d\n", a);
+	};
 }
