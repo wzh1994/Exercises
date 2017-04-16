@@ -21,6 +21,12 @@
     <ClCompile Include="uva1591.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="uva508.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="uva509.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md" />
