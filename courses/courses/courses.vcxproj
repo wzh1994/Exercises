@@ -12,9 +12,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />
-    <ClCompile Include="uva1591.cpp" />
-    <ClCompile Include="uva508.cpp" />
-    <ClCompile Include="uva509.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md" />
