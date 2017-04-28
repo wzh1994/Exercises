@@ -15,6 +15,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\README.md" />
+    <None Include="data.in" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14EFE5CB-522F-4BBB-8465-E4F774C2ACF6}</ProjectGuid>
