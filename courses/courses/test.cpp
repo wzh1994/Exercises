@@ -1,8 +1,13 @@
 #include <iostream>
+#include <map>
+#include <set>
+#include <cstdio>
+#include <string>
+#include <sstream>
+#include <cctype>
 using namespace std;
-int test(){
-	int a[10] = {1,2,3,4,5,7,8,9,10,11};
-	int b = 1;
-	cout << a[b = 2];
-	return 1;
+void test(){
+	string s1 = "12345";
+	string s2 = "12345";
+	cout<<s1.substr(0, 2)<<" "<<s1.substr(2, 3);
 }
