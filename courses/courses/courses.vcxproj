@@ -18,6 +18,9 @@
     <None Include="data.in" />
     <None Include="data.out" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="head.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14EFE5CB-522F-4BBB-8465-E4F774C2ACF6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
